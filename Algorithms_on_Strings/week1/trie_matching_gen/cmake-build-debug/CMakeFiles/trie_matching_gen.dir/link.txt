@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/trie_matching_gen.dir/main.cpp.o  -o trie_matching_gen 

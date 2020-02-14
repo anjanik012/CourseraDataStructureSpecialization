@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dag_check"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dag_check">
+				<Option output="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/dag_check" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 dag_check"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dag_check/fast">
+				<Option output="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/dag_check" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 dag_check/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/main.cpp">
+			<Option target="dag_check"/>
+		</Unit>
+		<Unit filename="/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week2/dag_check/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

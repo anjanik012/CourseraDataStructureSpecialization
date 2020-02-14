@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_Strings/Week4/kmp/main.cpp
+iostream
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/suffix_array_long.dir/main.cpp.o  -o suffix_array_long 

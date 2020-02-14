@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/anjani/Programs/C++/DataStructures_and_Algorithms/DataStructures/week3/merge
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/anjani/Programs/C++/DataStructures_and_Algorithms/DataStructures/week3/merge/cmake-build-debug

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week4/bellman_ford/main.cpp
+iostream
+-
+vector
+-
+

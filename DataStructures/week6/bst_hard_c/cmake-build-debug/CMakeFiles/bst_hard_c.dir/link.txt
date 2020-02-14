@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/bst_hard_c.dir/main.cpp.o  -o bst_hard_c 

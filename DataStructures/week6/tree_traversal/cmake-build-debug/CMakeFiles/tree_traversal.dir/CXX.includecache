@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anjani/Programs/C++/DataStructures_and_Algorithms/DataStructures/week6/tree_traversal/main.cpp
+iostream
+-
+vector
+-
+

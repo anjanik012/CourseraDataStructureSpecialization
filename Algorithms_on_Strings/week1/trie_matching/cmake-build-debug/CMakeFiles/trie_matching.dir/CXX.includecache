@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_Strings/week1/trie_matching/main.cpp
+algorithm
+-
+cassert
+-
+iostream
+-
+string
+-
+vector
+-
+map
+-
+

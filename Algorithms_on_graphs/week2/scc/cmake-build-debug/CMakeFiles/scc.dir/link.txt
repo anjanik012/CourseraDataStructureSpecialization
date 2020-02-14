@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/scc.dir/main.cpp.o  -o scc 

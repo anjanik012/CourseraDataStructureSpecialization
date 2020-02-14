@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anjani/Programs/C++/DataStructures_and_Algorithms/Algorithms_on_graphs/week3/bfs/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+

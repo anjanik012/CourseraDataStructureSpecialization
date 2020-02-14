@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/dag_check.dir/main.cpp.o  -o dag_check 

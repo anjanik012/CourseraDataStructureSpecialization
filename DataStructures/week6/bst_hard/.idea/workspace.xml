@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="bst_hard" targetName="bst_hard" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="030895e7-9f66-47c7-9dcc-ebc2acb9ddab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Oa7Z7330Gt8iBF7rOfiRTtiB1H" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.splitter.proportion" value="0.22697674" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="bst_hard" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bst_hard" TARGET_NAME="bst_hard" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bst_hard" RUN_TARGET_NAME="bst_hard">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="030895e7-9f66-47c7-9dcc-ebc2acb9ddab" name="Default Changelist" comment="" />
+      <created>1564203905334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564203905334</updated>
+      <workItem from="1564203906880" duration="19032000" />
+      <workItem from="1564317708753" duration="778000" />
+      <workItem from="1564322632794" duration="2234000" />
+      <workItem from="1564325561940" duration="234000" />
+      <workItem from="1564331443091" duration="1295000" />
+      <workItem from="1564371495730" duration="109000" />
+      <workItem from="1564371615855" duration="315000" />
+      <workItem from="1564374671245" duration="27000" />
+      <workItem from="1564379116539" duration="90000" />
+      <workItem from="1564379528567" duration="88000" />
+      <workItem from="1564414313215" duration="649000" />
+      <workItem from="1564414985009" duration="1116000" />
+      <workItem from="1564416641846" duration="311000" />
+      <workItem from="1564416975779" duration="86000" />
+      <workItem from="1564417254077" duration="26000" />
+      <workItem from="1564417300913" duration="28000" />
+      <workItem from="1564417349329" duration="20000" />
+      <workItem from="1564417391505" duration="60000" />
+      <workItem from="1564417469968" duration="62000" />
+      <workItem from="1564417549850" duration="3090000" />
+      <workItem from="1564427418381" duration="56000" />
+      <workItem from="1564430740254" duration="59000" />
+      <workItem from="1564431194584" duration="19000" />
+      <workItem from="1564497966406" duration="5274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

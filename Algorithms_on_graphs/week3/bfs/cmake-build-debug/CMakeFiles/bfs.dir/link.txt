@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/bfs.dir/main.cpp.o  -o bfs 
